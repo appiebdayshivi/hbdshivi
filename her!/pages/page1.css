@@ -2,12 +2,13 @@
 
 body {
     background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
 }
 
 .heading {
     color: white;
     white-space: nowrap;
-    overflow: hidden;
     text-overflow: ellipsis;
 }
 
