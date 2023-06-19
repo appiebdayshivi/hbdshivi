@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Mono:ital,wght@0,100;1,300&family=Space+Mono&display=swap');
+
+body {
+    background-color: black;
+}
+
+.sp-las {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;    
+}
+
+.strt-scrn {
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.strt-scrn:hover {
+    color: blueviolet;
+}
