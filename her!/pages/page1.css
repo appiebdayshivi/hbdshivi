@@ -22,7 +22,7 @@ body {
     height: 100px; 
 }
 
-box {
+.box {
   width: 300px;
   height: 40px;
   padding: 10px;
@@ -36,7 +36,7 @@ box {
   transition: box-shadow 0.3s ease;
 }
 
-box:focus {
+.box:focus {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
