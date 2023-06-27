@@ -12,15 +12,25 @@ body {
     text-overflow: ellipsis;
 }
 
-.passkey-scrn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -50px;
-    width: 100px;
-    height: 100px; 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
+
+.box {
+  width: 300px;
+  height: 40px;
+  /* Other input box styles */
+}
+
+#submitButton {
+  margin-top: 10px;
+  /* Other button styles */
+}
+
 
 .box {
   width: 300px;
