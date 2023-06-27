@@ -6,6 +6,15 @@ body {
     font-size: 12px;
 }
 
+.sheesh {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+}
+
 .Ahahaha {
     position: fixed;
     top: 50%;
