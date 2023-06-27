@@ -4,10 +4,10 @@ body {
     background-color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
+    color: white;
 }
 
 .sheesh {
-  color: white; 
   display: flex;
   flex-direction: column;
   justify-content: center;
