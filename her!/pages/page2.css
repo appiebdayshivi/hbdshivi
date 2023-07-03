@@ -31,8 +31,6 @@ body {
 }
 .mycrap {
       font-size: 12px;
-      letter-spacing: 4px;
-      word-spacing: 5px;
       line-height: 5px;
       white-space: no-wrap;
       text-overflow: ellipsis;
