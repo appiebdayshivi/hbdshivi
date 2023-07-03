@@ -35,5 +35,5 @@ body {
       word-spacing: 5px;
       line-height: 5px;
       white-space: no-wrap;
-      overflow: ellipsis;
+      text-overflow: ellipsis;
 }
