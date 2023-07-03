@@ -24,3 +24,8 @@ body {
 .mycrap {
     padding: 0 2rem;
 }
+.clap {
+      font-size: 14px;
+      color: gray;
+      text-decoration: italics;
+}
