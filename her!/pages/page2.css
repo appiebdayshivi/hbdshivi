@@ -34,4 +34,6 @@ body {
       letter-spacing: 4px;
       word-spacing: 5px;
       line-height: 5px;
+      white-space: no-wrap;
+      overflow: ellipsis;
 }
