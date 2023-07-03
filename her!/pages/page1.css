@@ -68,10 +68,9 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-    h2 {
-        font-size: 30px;
-        line-height: 50px;
+    h2{
+        font-size: 36px;
+        line-height: 55px;
     }
 }
-
 
