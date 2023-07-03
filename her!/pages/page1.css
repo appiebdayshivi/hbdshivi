@@ -7,8 +7,8 @@ body {
 }
 
 .heading {
-    color: red;
-    font-size: 55px;
+    color: white;
+    font-size: 45px;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
@@ -67,12 +67,7 @@ body {
   color: #999;
 }
 
-@media screen and (max-width: 768px) {
-  /* Styles for screens wider than 768px */
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-  }
+@media screen and (max-width: 480px) {
   .heading {
     font-size: 20px;
   }
