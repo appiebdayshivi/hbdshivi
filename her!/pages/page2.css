@@ -23,17 +23,16 @@ body {
 
 .mycrap {
     padding: 0 2rem;
+    font-size: 12px;
+    letter-spacing: 4px;
+    line-height: 20px;
 }
 .clap {
       font-size: 14px;
       color: gray;
       font-style: italics;
 }
-.mycrap {
-      font-size: 12px;
-      letter-spacing: 4px;
-      line-height: 20px;
-}
+
 .click-this-btn-mf {
       font-size: 12px;
       line-height: 20px;
