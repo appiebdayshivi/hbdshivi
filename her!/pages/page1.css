@@ -67,10 +67,14 @@ body {
   color: #999;
 }
 
-@media (max-width: 600px) {
-    .heading {
-        font-size: 21px;
-        line-height: 55px;
-    }
+@media screen and (min-width: 768px) {
+  /* Styles for screens wider than 768px */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .heading {
+    font-size: 20px;
+  }
 }
 
