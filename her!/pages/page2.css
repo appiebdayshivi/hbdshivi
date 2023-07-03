@@ -27,12 +27,16 @@ body {
 .clap {
       font-size: 14px;
       color: gray;
-      text-decoration: italics;
+      font-style: italics;
 }
 .mycrap {
       font-size: 12px;
       letter-spacing: 4px;
-      line-height: 10px;
-      white-space: no-wrap;
-      text-overflow: ellipsis;
+      line-height: 20px;
 }
+.click-this-btn-mf {
+      font-size: 12px;
+      line-height: 20px;
+      word-spacing: 10px;
+      font-style: italics;
+} 
