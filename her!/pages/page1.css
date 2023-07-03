@@ -8,6 +8,7 @@ body {
 
 .heading {
     color: white;
+    font-size: 55px;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
