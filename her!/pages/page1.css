@@ -67,7 +67,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-    .heading {
+    h2 {
         font-size: 30px;
         line-height: 50px;
     }
