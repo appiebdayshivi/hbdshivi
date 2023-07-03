@@ -40,3 +40,8 @@ body {
       word-spacing: 10px;
       font-style: italics;
 } 
+.name {
+      font-size: 15px;
+      font-style: bold;
+      letter-spacing: 20px;
+}
