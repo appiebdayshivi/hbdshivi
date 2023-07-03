@@ -26,7 +26,6 @@ body {
     padding: 0 2rem;
     font-size: 12px;
     letter-spacing: 4px;
-    line-height: 20px;
 }
 .clap {
       font-size: 14px;
@@ -36,7 +35,6 @@ body {
 
 .click-this-btn-mf {
       font-size: 12px;
-      line-height: 20px;
       word-spacing: 10px;
       font-style: italics;
 } 
