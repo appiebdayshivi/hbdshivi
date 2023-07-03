@@ -66,4 +66,11 @@ body {
   color: #999;
 }
 
+@media screen and (max-width: 600px) {
+    .heading {
+        font-size: 30px;
+        line-height: 50px;
+    }
+}
+
 
