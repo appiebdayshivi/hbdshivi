@@ -7,7 +7,7 @@ body {
 }
 
 .heading {
-    color: white;
+    color: red;
     font-size: 55px;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -67,8 +67,8 @@ body {
   color: #999;
 }
 
-@media screen and (max-width: 600px) {
-    h2{
+@media (max-width: 600px) {
+    .heading {
         font-size: 36px;
         line-height: 55px;
     }
